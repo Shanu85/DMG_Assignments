@@ -1,4 +1,4 @@
 # DMG_Assignments
 
 ### Group Member :
-https://github.com/NKShukla
+[Naval Kumar Shukla](https://github.com/NKShukla)
